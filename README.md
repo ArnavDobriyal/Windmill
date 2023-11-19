@@ -7,20 +7,35 @@ This repository contains the code for training and deploying a YOLOv8 model for 
 ## Dataset
 
 The dataset consists of 641 training images and 60 validation images. The dataset is organized as follows:
+
 dataset/
+
 |-- images/
+
 | |-- train/
+
 | | |-- image1.jpg
+
 | | |-- image2.jpg
+
 | |-- val/
+
 | | |-- image3.jpg
+
 | | |-- image4.jpg
+
 |-- labels/
+
 | |-- train/
+
 | | |-- image1.txt
+
 | | |-- image2.txt
+
 | |-- val/
+
 | | |-- image3.txt
+
 | | |-- image4.txt
 
 ## Training
