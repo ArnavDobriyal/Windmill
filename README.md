@@ -61,6 +61,7 @@ Recall: 0.667
 
 
 ##Potential Improvements
+
 Increased Epochs: Due to computational constraints, the number of epochs was limited. Consider training for more epochs if resources permit.
 
 Enhanced Annotations: Ensure high-quality annotations and refine or add more annotations for improved model accuracy.
