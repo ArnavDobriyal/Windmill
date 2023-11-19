@@ -1,0 +1,7 @@
+path: C:/Users/dobri/Documents/for jobs/assignment for job/dataset
+train: images/train  
+val: images/test
+names:
+  0: corrosion
+  1: cracks
+  2: normal
