@@ -29,7 +29,7 @@ The YOLOv8 model is trained using transfer learning, starting from pre-trained w
 
 ## Results
 
-The trained model achieved the following metrics on the validation set:
+![results](https://github.com/ArnavDobriyal/Windmill/assets/120387628/73481743-901a-4a3f-b3b9-5994015f53fb)
 
 the following is the example image of trainig batch:
 ![train_batch0](https://github.com/ArnavDobriyal/Windmill/assets/120387628/2cdc5ba6-80dc-496e-a74b-4654ed064054)
