@@ -60,8 +60,10 @@ Precision: 0.571
 Recall: 0.667
 
 
-
-
+improvment possible are 
+1)due to lack of computational power and time the number of epox were limited
+2)using better annonated data
+3)usinng ensembling of model
 
 
 
