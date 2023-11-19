@@ -60,10 +60,12 @@ Precision: 0.571
 Recall: 0.667
 
 
-improvment possible are 
-1)due to lack of computational power and time the number of epox were limited
-2)using better annonated data
-3)usinng ensembling of model
+##Potential Improvements
+Increased Epochs: Due to computational constraints, the number of epochs was limited. Consider training for more epochs if resources permit.
+
+Enhanced Annotations: Ensure high-quality annotations and refine or add more annotations for improved model accuracy.
+
+Ensembling: Experiment with model ensembling by combining predictions from multiple models for enhanced overall performance.
 
 
 
