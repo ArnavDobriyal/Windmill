@@ -60,7 +60,7 @@ Precision: 0.571
 Recall: 0.667
 
 
-##Potential Improvements
+## Potential Improvements
 
 Increased Epochs: Due to computational constraints, the number of epochs was limited. Consider training for more epochs if resources permit.
 
