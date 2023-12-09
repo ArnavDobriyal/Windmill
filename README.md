@@ -49,13 +49,16 @@ the graphs:
 ![results](https://github.com/ArnavDobriyal/Windmill/assets/120387628/73481743-901a-4a3f-b3b9-5994015f53fb)
 
 the following is the example image of trainig batch:
+
 ![train_batch0](https://github.com/ArnavDobriyal/Windmill/assets/120387628/2cdc5ba6-80dc-496e-a74b-4654ed064054)
 
 the following is the validation batch:
+
 ![image](https://github.com/ArnavDobriyal/Windmill/assets/120387628/1731db37-d1d7-4b26-9852-57e24d2cb670)
 
 the following is the predicted batch:
-![val_batch0_pred](https://github.com/ArnavDobriyal/Windmill/assets/120387628/bedbb868-375c-463a-8265-1e2b40b50da1)
+
+![image](https://github.com/ArnavDobriyal/Windmill/assets/120387628/0d2ef35b-012a-4ed7-a3fc-d5eaf79814bf)
 
 Overall Metrics:
 
